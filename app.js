@@ -1,4 +1,6 @@
 // Дэлгэцтэй ажиллах контроллер
+//scrrrc
+console.log("Orchlon huurhun.");
 var uiController = (function() {
   var DOMstrings = {
     inputType: ".add__type",
